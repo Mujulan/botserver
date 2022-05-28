@@ -1,0 +1,9 @@
+{
+	"ip":"LzcySanss2.aternos.me",
+	"port": "24867",
+	"name": "DearerYetiBot",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
